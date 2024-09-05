@@ -1,0 +1,17 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32s3.cfg"
+    ],
+    "idf.portWin": "COM8",
+    "files.associations": {
+        "esp_netif.h": "c",
+        "queue.h": "c",
+        "mwifi.h": "c",
+        "stddef.h": "c",
+        "esp_wifi.h": "c",
+        "task.h": "c",
+        "nvs_flash.h": "c"
+    }
+}
