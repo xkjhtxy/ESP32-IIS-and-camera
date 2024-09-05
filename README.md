@@ -1,1 +1,1 @@
-# SP32-iis-and-camera
+# ESP32-iis-and-camera
